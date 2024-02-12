@@ -1,3 +1,7 @@
+%Name - Nivid Mehta
+%Roll no - 21BME114D
+%Date - 11/2/24
+
 L=1;
 N=7;
 dx=L/(N-1);
